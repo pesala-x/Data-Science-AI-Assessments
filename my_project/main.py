@@ -1,5 +1,4 @@
-from my_calculator.addition import add
-from my_calculator.subtraction import subtract 
+from my_calculator import add,subtract
 
 result1 = add(5,3)
 result2 = subtract(8,6)
