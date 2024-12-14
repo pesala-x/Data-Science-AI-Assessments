@@ -1,0 +1,19 @@
+
+creating the python program to mannage a companies reports stores in .csv file. the program should read the employee details from the csv file fliter.
+therecords based on a condition and write the filterd records to a new csv file named employee.csv  
+
+it contains the following fields : 
+
+| EmployeeID | Name | Department | Salary |
+
+-Output : 
+
+`high_salary_employees.csv` you will create this file it should continue records employees who's sallery are above 50000 (the fields remain same)
+
+-Task :
+
+    1)read the input file : use csv.reader() to add employees.csv and display the all the records 
+
+    2)filter the records : identify the employee with the sallery >60000 
+
+    3)write the csv file : use csv.dictWriter() to write the records to the new file `high_salary_employees.csv` a
