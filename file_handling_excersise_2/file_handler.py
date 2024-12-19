@@ -1,4 +1,5 @@
 import json
+import numpy as np
 
 FILE_NAME = "file_handling_excersise_2/students.json"
 
